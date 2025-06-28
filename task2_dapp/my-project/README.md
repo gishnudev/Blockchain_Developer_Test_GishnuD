@@ -1,20 +1,20 @@
-# 🎓 Scholarship dApp Frontend
+#  Scholarship dApp Frontend
 
 A React + Vite frontend to interact with the Scholarship.sol smart contract. Built for managing and claiming scholarships on the Ethereum Sepolia testnet.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-- ⚛️ React (via Vite)
-- 💅 Tailwind CSS
-- 🔗 Ethers.js
-- 🔐 MetaMask for wallet connection
-- 📜 Sepolia testnet deployment
+-  React (via Vite)
+-  Tailwind CSS
+-  Ethers.js
+-  MetaMask for wallet connection
+-  Sepolia testnet deployment
 
-## 🎯 Features
+##  Features
 
-### 👑 Admin Interface
+###  Admin Interface
 
 - Connect wallet (MetaMask)
 - Only owner can access Admin Dashboard
@@ -24,7 +24,7 @@ A React + Vite frontend to interact with the Scholarship.sol smart contract. Bui
     - Amount (in ETH)
     - Deadline (datetime input)
 
-### 🌍 Public Claim Interface
+###  Public Claim Interface
 
 - Connect wallet
 - Input scholarship ID to load details
@@ -32,9 +32,9 @@ A React + Vite frontend to interact with the Scholarship.sol smart contract. Bui
 - If you're the assigned recipient, claim the scholarship before deadline
 
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
-### 📦 Install dependencies
+###  Install dependencies
 
 Run:
 
@@ -42,7 +42,7 @@ Run:
 npm install
 ```
 
-### 🧪 Start local dev server
+###  Start local dev server
 
 ```bash
 npm run dev
