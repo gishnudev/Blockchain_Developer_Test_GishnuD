@@ -1,12 +1,49 @@
-# React + Vite
+# 🎓 Scholarship dApp Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite frontend to interact with the Scholarship.sol smart contract. Built for managing and claiming scholarships on the Ethereum Sepolia testnet.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React (via Vite)
+- 💅 Tailwind CSS
+- 🔗 Ethers.js
+- 🔐 MetaMask for wallet connection
+- 📜 Sepolia testnet deployment
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+
+### 👑 Admin Interface
+
+- Connect wallet (MetaMask)
+- Only owner can access Admin Dashboard
+- Create a new scholarship with:
+    - ID
+    - Recipient address
+    - Amount (in ETH)
+    - Deadline (datetime input)
+
+### 🌍 Public Claim Interface
+
+- Connect wallet
+- Input scholarship ID to load details
+- View recipient, amount, deadline, claim status
+- If you're the assigned recipient, claim the scholarship before deadline
+
+
+## 🔧 Setup Instructions
+
+### 📦 Install dependencies
+
+Run:
+
+```bash
+npm install
+```
+
+### 🧪 Start local dev server
+
+```bash
+npm run dev
+```
