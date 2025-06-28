@@ -3,12 +3,6 @@
 ## 👤 Candidate Name
 **Gishnu Devadathan**
 
-## 📅 Duration
-- **Start:** 27th June 2025, 7:00 PM  
-- **End:** 28th June 2025, 7:00 PM  
-- **Total Duration:** 6 Hours (within a 24-hour window)
-
-
 ---
 
 ## 🧾 How to Clone This Repository
