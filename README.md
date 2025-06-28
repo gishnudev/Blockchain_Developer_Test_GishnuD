@@ -1,19 +1,19 @@
-# 📘 Blockchain Developer Technical Test – Gishnu Devadathan
+#  Blockchain Developer Technical Test – Gishnu Devadathan
 
-## 👤 Candidate Name
+##  Candidate Name
 **Gishnu Devadathan**
 
 ---
 
-## 🧾 How to Clone This Repository
+##  How to Clone This Repository
 
 ```bash
 git clone https://github.com/gishnudev/Blockchain_Developer_Test_GishnuD
 cd Blockchain_Developer_Test_GishnuD
 ```
-## 🔧 Task Summaries
+##  Task Summaries
 
-### ✅ Task 1: Smart Contract – Scholarship Management
+###  Task 1: Smart Contract – Scholarship Management
 
 - Built with Solidity + Hardhat.
 
@@ -23,10 +23,10 @@ cd Blockchain_Developer_Test_GishnuD
 
 - Unit tests written and passed.
 
-- ➡️ cd task1_smart_contract
-➡️ Follow README inside for setup and Sepolia contract address.
+-  cd task1_smart_contract
+   Follow README inside for setup and Sepolia contract address.
 
-### ✅ Task 2: React dApp – Scholarship Frontend
+###  Task 2: React dApp – Scholarship Frontend
 
 - Developed using React + Vite + Tailwind CSS.
 
@@ -36,10 +36,10 @@ cd Blockchain_Developer_Test_GishnuD
 
 - Uses ethers.js for blockchain interaction.
 
-- ➡️ cd task2_dapp
-➡️ Follow README inside for local setup and screenshots.
+-  cd task2_dapp
+   Follow README inside for local setup and screenshots.
 
-### ✅ Task 3: REST API – Scholarship Metadata
+###  Task 3: REST API – Scholarship Metadata
 
 - Node.js + Express.js + MongoDB backend.
 
@@ -49,10 +49,10 @@ cd Blockchain_Developer_Test_GishnuD
 
 - Validated with Postman (screenshots included).
 
-- ➡️ cd task3_api
-➡️ Follow README inside for Docker instructions.
+-  cd task3_api
+   Follow README inside for Docker instructions.
 
-### ✅ Task 4: Gas Optimization Analysis
+###  Task 4: Gas Optimization Analysis
 
 - Analyzed Scholarship.sol for gas inefficiencies.
 
@@ -60,15 +60,15 @@ cd Blockchain_Developer_Test_GishnuD
 
 - Documented gas savings using Hardhat gas reporter.
 
-- ➡️ cd task4_optimization
-➡️ Includes optimized contract + analysis report.
+-  cd task4_optimization
+   Includes optimized contract + analysis report.
 
-### 📩 Submission
+###  Submission
 
 Submitted via GitHub Repository link on 28th June 2025 to
-📧 starxaitech.hr@gmail.com
+ starxaitech.hr@gmail.com
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - Solidity (v^0.8.x)
 
@@ -86,11 +86,11 @@ Submitted via GitHub Repository link on 28th June 2025 to
 
 - Postman
 
-### 📌 Notes
+###  Notes
 
 -All dependencies listed in respective package.json.
 
 -All code is original and developed within the test timeframe.
 
-### 🙏 Acknowledgment
+###  Acknowledgment
 Thank you for the opportunity to participate in this technical test.
