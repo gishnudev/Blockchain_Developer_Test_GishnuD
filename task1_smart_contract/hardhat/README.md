@@ -1,10 +1,10 @@
-# 🎓 Scholarship Smart Contract
+# Scholarship Smart Contract
 
 A smart contract that allows the contract owner to create scholarships for recipients, which can be claimed before a deadline.
 
 ---
 
-## 📄 Contract: `Scholarship.sol`
+## Contract: `Scholarship.sol`
 
 ### Functions
 
@@ -33,7 +33,7 @@ A smart contract that allows the contract owner to create scholarships for recip
 
 ---
 
-## ✅ Testing
+## Testing
 
 Run:
 
@@ -41,13 +41,13 @@ Run:
 npx hardhat test
 ```
 
-## 🚀 Deployment Guide: Scholarship Smart Contract
+## Deployment Guide: Scholarship Smart Contract
 
 This guide walks you through deploying the `Scholarship.sol` smart contract to the **Sepolia testnet** using **Hardhat**.
 
 ---
 
-### 📦 Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 ---
 
-### 🔐 Environment Setup
+###  Environment Setup
 
 Create a `.env` file in the root of your project:
 
@@ -74,7 +74,7 @@ Update your Hardhat config file
 
 Create a new file: scripts/deploy.js
 
-### 🚀 3. Deploy to Sepolia
+###  3. Deploy to Sepolia
 
 Run the following command:
 
@@ -82,7 +82,7 @@ Run the following command:
 npx hardhat ignition deploy ignition/modules/deploy.js --network sepolia
 ```
 
-### ✅ Verify Deployment
+###  Verify Deployment
 
 Check your contract on:
 
